@@ -1,6 +1,4 @@
 Közös fájl.
-<<<<<<< HEAD
 Első is módosította.
-=======
 Második bele is írt valamit...
->>>>>>> 3955f2da9459fc111602bae9914ad28290bb68b7
+
